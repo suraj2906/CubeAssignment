@@ -27,12 +27,10 @@ The application is deployed and can be viewed online at:
 
    ```
    git clone https://github.com/suraj2906/CubeAssignment.git
-  
 2. **Install Dependencies**
 
    ```
    yarn install
-
 3. ***Running the Application**
 
    ```
