@@ -36,5 +36,6 @@ The application is deployed and can be viewed online at:
    ```
    yarn run
 4. **Viewing the application**
+
    Open your web browser and go to http://localhost:3000 to view the application.
 
