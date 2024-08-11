@@ -16,7 +16,7 @@ const CustomerMain = ({customer}: Props) => {
   return (
     <div className='customerContainer'>
       <h2>{customer.name} details here</h2>
-      <p  style={{width: '600px'}}>{customer.description}</p>
+      <p  style={{width: '40vw'}}>{customer.description}</p>
       <PhotoGrid/>
     </div>
   );
