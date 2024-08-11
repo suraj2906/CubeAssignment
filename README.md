@@ -2,6 +2,11 @@
 
 This is a React-based customer management application designed to display a list of 1000 customers, their details as selected, and a photo-grid of 9 photos, updating every 10 seconds. The application is built with lazy loading, initially rendering only 20 customers and loading more as you scroll down.
 
+## Deployment
+The application is deployed and can be viewed online at:
+
+[Customer Details App](https://cube-assignment-omega.vercel.app/)
+
 ## Features
 
 - **Lazy Loading:** The customer list is rendered incrementally as the user scrolls, optimizing performance for large datasets.
@@ -16,11 +21,6 @@ This is a React-based customer management application designed to display a list
 - **Node.js:** Make sure you have Node.js installed.
 - **Yarn:** This project uses Yarn as the package manager. You can install it [here](https://yarnpkg.com/getting-started/install).
 
-Deployment
-The application is deployed and can be viewed online at:
-
-[Customer Details App](https://cube-assignment-omega.vercel.app/)
-
 ### Installation
 
 1. **Clone the repository:**
@@ -31,9 +31,10 @@ The application is deployed and can be viewed online at:
 
    ```
    yarn install
-3. ***Running the Application**
+3. **Running the Application**
 
    ```
    yarn run
-Open your web browser and go to http://localhost:3000 to view the application.
+4. **Viewing the application**
+   Open your web browser and go to http://localhost:3000 to view the application.
 
