@@ -26,8 +26,8 @@ The application is deployed and can be viewed online at:
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/your-username/customer-management-app.git
-   cd customer-management-app
+   git clone https://github.com/suraj2906/CubeAssignment.git
+  
 2. **Install Dependencies**
 
    ```
